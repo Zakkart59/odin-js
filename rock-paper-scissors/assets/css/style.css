@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: lavender;
+}
+
+a {
+  text-decoration: none;
+  color: chocolate;
+}
+
+footer {
+  background-color: #8d818191;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
